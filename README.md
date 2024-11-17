@@ -1,2 +1,3 @@
-# NLPDataVisualization
-NLP Data Visualization ISTE 782
+# NLP Data Visualization
+NLP Data Visualization tutorials in R and Python, LDA application on US presidents inaugural speeches
+
