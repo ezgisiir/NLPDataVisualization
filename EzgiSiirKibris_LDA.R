@@ -1,9 +1,8 @@
 #############################################
 ####  Topic Modelling                  #####
 ####  US presidential Inaugural Speeches ### 
-###   ISTE 782 RIT version             ###
+###  RIT version                        ###
 ####  Ezgi Siir Kibris                ####
-#### Updated: 17 November 2024        ####
 ##########################################
 
 
